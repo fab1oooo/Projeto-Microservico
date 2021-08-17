@@ -9,4 +9,5 @@ Tecnologias utilizadas:
 - Docker
 - Spring Boot
 - ElasticSearch
-- Redis.
+- Redis
+- Eureka
