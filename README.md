@@ -4,9 +4,9 @@ Projeto com arquitetura baseada em Micro serviços desenvolvido em Java com Spri
 
 Tecnologias utilizadas:
 
-Java 
-Gradle
-Docker
-Spring Boot
-ElasticSearch
-Redis.
+- Java
+- Gradle
+- Docker
+- Spring Boot
+- ElasticSearch
+- Redis.
